@@ -1,18 +1,1 @@
-Dolby Home Theather v4 for Windows 7, 8, 8.1 and 10 (ReEdited)
-Download : http://d-h.st/4Rx7
-How to Install Dolby Home Theather v4 :
-PLEASE remove existing audio driver before installing Dolby like Realtek Audio or whatever is it!!!
-1. Extract archive
-2. Open folder Dolby PCEE Drivers, Install Dolby PCEE Drivers.msi and choose DHT release (Not debug)
-3. Open RegEdit (ctrl+R and type regedit)
-4. Go to HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\MMDevices\Audio\Render\{ae4fe1de-ee57-4474-82e3-4d802af7a055}\FxProperties
-This code {ae4fe1de-ee57-4474-82e3-4d802af7a055} should be different, just open all code registry that have folder FxProperties
-5. If you found FxProperties folder then delete all registry except default
-6. Rename and copy regestry code that have folder FxProperties
-7. Open Dolby.reg with text Editor. replace with paste code to {paste-to-this-code-registry}
-8. Run Dolby.reg with double click
-9. Install Dolby Home Theater v4.msi
-10. Restart. you should have Dolby Home Theather v4
-Credits :
-fr33jack
-Nospheratu
+Reyhan
